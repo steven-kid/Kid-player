@@ -1,2 +1,2 @@
 # Kid-player
-An basic music player
+A basic music player
